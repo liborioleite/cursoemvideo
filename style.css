@@ -14,16 +14,15 @@ body{
     width: 500px;
     margin: auto;
     padding: 30px;
-    border: 1pt solid black;
+   
 }
 
 .conteudo1{
-   border: 1pt solid black;
+  
    margin-bottom: 20px;
 }
 
 .conteudo2{
-    border: 1pt solid black;
 }
 
 .footer{
